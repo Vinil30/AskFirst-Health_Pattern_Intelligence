@@ -48,4 +48,4 @@ The app is already deployed, use this link:
 `https://askfirst-health-pattern-intelligence.onrender.com/`
 
 Make sure to run temporal reasoning to get all outputs.
-
+Along with all the requirements provided in the assessment, I also added GenerativeAI part, for better reasoning and efficient suggestions, which provides a perfect touch to this system in terms of text and insight generation. I used llama70B model in this assessment, as it is trained on a good amount of health data, this LLM would be perfect for our work.

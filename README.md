@@ -1,5 +1,5 @@
 # Ask First - Health Pattern Detector
-
+#Note: After opening the site either by local setup or directly using deployed site, press on run temporal reasoning to print all the outputs. Alongside, the improvements, you can toggle down the reasoning trace and detected patterns for each user. Please go through these things for better and efficient experience.
 This project detects cross-conversation health patterns with temporal reasoning, assigns confidence scores, and structures output using Groq (OpenAI-compatible endpoint).
 
 ## 1) Setup
@@ -43,7 +43,9 @@ streamlit run app.py
 
 ## 4) Hosted link (optional)
 
-If the app is already deployed, use this link:
+The app is already deployed, use this link:
 
-`<link i will paste>`
+`https://askfirst-health-pattern-intelligence.onrender.com/`
+
+Make sure to run temporal reasoning to get all outputs.
 
